@@ -1,9 +1,6 @@
 {
   "version": 8,
-  "name": "Satellite Hybrid",
-  "metadata": {
-    "maputnik:renderer": "mlgljs"
-  },
+  "name": "Globe 3D terrain with hillshade and hybrid satellite",
   "center": [
     0,
     0
